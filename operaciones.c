@@ -13,8 +13,9 @@ int restar(int a, int b) {
 }
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
-/* La función multiplicar recibe dos parámetros y los multiplica, devolviendo el resultado */
-int multiplicar(int a, int b) {
+int multiplicar(int a, int b ) {
+    // Lo que hace la función es multiplicar dos números enteros.  
+    //El resultado se devuelve al programa que la llama.
     return a * b; /* TODO: implementar */
 }
 
